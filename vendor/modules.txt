@@ -1,0 +1,2 @@
+# github.com/tidwall/gjson v1.6.1
+## explicit
